@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Edwin+Marshal;Bioinformatician;Computational+biologist;AI/ML+in+bioinformatics+%7C+Multiomics+%7C+NGS+analysis%7C+Python+and+R" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Edwin+Marshal;Bioinformatician;Computational+biologist;AI/ML+%7C+Multiomics+%7C+Python+and+R" alt="Typing SVG" />
 </div>
 
 <h3 align="center"> Computational Biologist and Bioinformatician | Building ML Models, Intrepeting the messy biological data into useful insights</h3>
